@@ -1,3 +1,4 @@
+---
 student: Αναστασία Γετερίδου
 id: inf2021037
 title: Windows 7
@@ -7,3 +8,4 @@ categories:
 tags:
   - Microsoft
   - Windows
+---
